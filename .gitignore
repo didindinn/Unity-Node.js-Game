@@ -1,0 +1,16 @@
+02-Multiplayer-Game-W-Unity-And-Node.js.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+
+Assets
+!*.cs
+
+Node.js/node_modules
+Builds
+Library
+Logs
+obj
+Packages
+ProjectSettings
+Temp
+.vs
